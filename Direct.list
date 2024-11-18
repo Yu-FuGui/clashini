@@ -27,6 +27,14 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+#ip查询
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,checkip.amazonaws.com
+DOMAIN-SUFFIX,txt.go.sohu.com
+DOMAIN-SUFFIX,2024.ipchaxun.com
 
 # 360
 DOMAIN-SUFFIX,360.com
