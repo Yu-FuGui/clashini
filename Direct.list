@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,tzgll.cn
 DOMAIN-SUFFIX,1888866.xyz
 DOMAIN-SUFFIX,mr.yanyuwangluo.cn
 
+#证书申请
+IP-CIDR,172.65.32.248/32
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
