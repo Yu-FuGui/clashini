@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,1888866.xyz
 DOMAIN-SUFFIX,mr.yanyuwangluo.cn
 
 #证书申请
+DOMAIN-SUFFIX,acme.zerossl.com
+DOMAIN-SUFFIX,acme-v02.api.letsencrypt.org
 IP-CIDR,172.65.32.248/32
 
 # 域名关键字匹配
