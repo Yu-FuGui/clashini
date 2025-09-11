@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,ipapi.co
 #DOMAIN-SUFFIX,wiki.metacubex.one
 #DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,translate.googleapis.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
