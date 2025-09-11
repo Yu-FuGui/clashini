@@ -8,7 +8,9 @@ DOMAIN-SUFFIX,ipapi.co
 # 域名后缀匹配
 #DOMAIN-SUFFIX,wiki.metacubex.one
 #DOMAIN-SUFFIX,docker.com
+#GoogleCDN
 DOMAIN-SUFFIX,gstatic.com
+#Google翻译
 DOMAIN-SUFFIX,translate.googleapis.com
 
 # 域名关键字匹配
